@@ -355,6 +355,10 @@ body {
 }
 
 @media screen and (max-width: 750px) {
+  .hero {
+    background-image: url(./images/bg-hero-mobile.svg);
+  }
+
   .hero-overview {
     flex-direction: column;
   }
